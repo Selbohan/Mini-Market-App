@@ -1,0 +1,9 @@
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\obj\Debug\Kantin_APP.csprojAssemblyReference.cache
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\obj\Debug\Kantin_APP.Form1.resources
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\obj\Debug\Kantin_APP.Properties.Resources.resources
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\obj\Debug\Kantin_APP.csproj.GenerateResource.cache
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\bin\Debug\Kantin_APP.exe.config
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\bin\Debug\Kantin_APP.exe
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\bin\Debug\Kantin_APP.pdb
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\obj\Debug\Kantin_APP.exe
+C:\Users\selbo\source\repos\Kantin_APP\Kantin_APP\obj\Debug\Kantin_APP.pdb
